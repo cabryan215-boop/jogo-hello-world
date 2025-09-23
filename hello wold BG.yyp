@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,8 +35,10 @@
   "name":"hello wold BG",
   "resources":[
     {"id":{"name":"ObjColetavel","path":"objects/ObjColetavel/ObjColetavel.yy",},},
-    {"id":{"name":"ObjInimigo","path":"objects/ObjInimigo/ObjInimigo.yy",},},
+    {"id":{"name":"objInimigo","path":"objects/objInimigo/objInimigo.yy",},},
+    {"id":{"name":"objInimigoAndando","path":"objects/objInimigoAndando/objInimigoAndando.yy",},},
     {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
+    {"id":{"name":"ObjPlayerInvencivel","path":"objects/ObjPlayerInvencivel/ObjPlayerInvencivel.yy",},},
     {"id":{"name":"ObjPontos","path":"objects/ObjPontos/ObjPontos.yy",},},
     {"id":{"name":"rmFase1","path":"rooms/rmFase1/rmFase1.yy",},},
     {"id":{"name":"rmFase2","path":"rooms/rmFase2/rmFase2.yy",},},

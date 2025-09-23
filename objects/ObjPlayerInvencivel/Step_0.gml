@@ -62,3 +62,9 @@ else if global.pontos ==8{
 }
 
 
+if (place_meeting(x,y, objInimigo) or place_meeting(x,y, objInimigoAndando)) and !keyboard_check(ord("E")){
+
+	room_restart()
+}
+
+
